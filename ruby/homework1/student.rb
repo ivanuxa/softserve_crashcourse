@@ -1,6 +1,6 @@
 require "date"
 
-class Person
+class Student
   @@students = []
 
   attr_reader :surname
